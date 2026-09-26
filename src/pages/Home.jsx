@@ -20,7 +20,6 @@ function Home() {
         </h2>
 
         <div className="row align-items-center">
-
           {/* Text */}
           <div className="col-md-7">
             <p className="b">
@@ -47,18 +46,15 @@ function Home() {
               className="img123"
             />
           </div>
-
         </div>
       </div>
 
       {/* Media Mentions */}
       <div className="container-fluid c">
         <div className="row">
-
           <div className="col-md-2"></div>
 
           <div className="col-md-8 text-center text-white">
-
             <h2 className="d">
               MEDIA MENTIONS
             </h2>
@@ -73,24 +69,20 @@ function Home() {
             <button className="btn btn-warning mb-5 mt-5">
               Know more
             </button>
-
           </div>
 
           <div className="col-md-2"></div>
-
         </div>
       </div>
 
       {/* Explore Our Brands */}
       <div className="container my-5">
-
         <h2 className="text-center mb-4">
           EXPLORE{" "}
           <span style={{ color: "orange" }}>OUR BRANDS</span>
         </h2>
 
         <div className="row">
-
           <div className="col-md-3 col-sm-6 mb-3">
             <img
               src="https://pn-paul.netlify.app/image/ffpic1.jpg"
@@ -122,21 +114,18 @@ function Home() {
               className="w-100"
             />
           </div>
-
         </div>
       </div>
 
       {/* Experience Our Concepts */}
       <div className="container-fluid c1">
         <div className="row">
-
           <div className="col-md-2"></div>
 
           <div
             className="col-md-8 text-center text-white"
             style={{ paddingTop: "140px" }}
           >
-
             <h2 className="d">
               EXPERIENCE OUR CONCEPTS
             </h2>
@@ -152,62 +141,9 @@ function Home() {
             <button className="btn btn-warning mb-5 mt-5">
               Know more
             </button>
-
           </div>
 
           <div className="col-md-2"></div>
-
-        </div>
-      </div>
-
-      {/* Contact Us */}
-      <div className="container my-5">
-
-        <h2 className="text-center mb-4">
-          CONTACT <span style={{ color: "orange" }}>US</span>
-        </h2>
-
-        <div className="row align-items-center">
-
-          {/* Image */}
-          <div className="col-md-6">
-            <img
-              src="https://pn-paul.netlify.app/image/contact.jpg"
-              alt="Contact First Fiddle"
-              className="w-100"
-            />
-          </div>
-
-          {/* Contact Text */}
-          <div className="col-md-6">
-
-            <p className="b">
-              We're a team focusing on redefining the way the hospitality
-              industry works by bringing in concept based restaurants
-              across India. We are truly committed to catering to the
-              ever-changing cosmopolitan taste of the customer and
-              revolutioning the F & B industry!
-            </p>
-
-            <h6 style={{ color: "orange" }}>
-              Address
-            </h6>
-
-            <p>
-              S-357 2nd floor, Block S, Panchsheel Park South,
-              Panchsheel Park, New Delhi, Delhi 110017
-            </p>
-
-            <h6 style={{ color: "orange" }}>
-              Enquiry
-            </h6>
-
-            <p>
-              Email: customercare@firstfiddle.in
-            </p>
-
-          </div>
-
         </div>
       </div>
 
